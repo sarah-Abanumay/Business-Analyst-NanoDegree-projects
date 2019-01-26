@@ -1,3 +1,6 @@
+I am leaving this open source. Please do not plagarize my code! 
+
+
 # Business-Analyst Nanodegrees at Udacity.
 
 # list of project to complate course Data-Analysis Nanodegrees
